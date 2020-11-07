@@ -42,8 +42,8 @@ Because the project is outlined along 4 themes, each theme has slightly differen
 
 ## Project Goals and Requirements 
 
-### Classical Predictive Analysis;
-* Come up with a clear research question and testable hypotheses;
+### Classical Predictive Analysi
+* Come up with a clear research question and testable hypotheses.
 * Apply the programming and ML techniques we have learned as well as some new techniques. 
 * Build and compare at least 4 ML models, one of which must be a model we have not discussed before (e.g. ridge regression).
 * Use evaluation metrics to ground your claims and test your models. 
@@ -57,14 +57,14 @@ Because the project is outlined along 4 themes, each theme has slightly differen
 * Communicate the results of your analysis clearly, accurately, and engagingly. Demonstrate your working prototype. 
 * Learn to tailor the style of your communication to the audience.
 
-### Vision and/or object detection;
+### Vision and/or object detection
 * Build a machine learning model (neural network or another advanced model) to perform object detection tasks. 
 * Demonstrate your knowledge of the model by presenting how it works and why you have designed it in this way. 
 * Use evaluation metrics to ground your claims and test your model. 
 * Communicate the results of your analysis clearly, accurately, and engagingly. Demonstrate a working prototype. 
 * Learn to tailor the style of your communication to the audience.
 
-### Reinforcement and generative learning;
+### Reinforcement and generative learning
 * Build a machine learning model (neural network) to generate new data or learn a new skill.  
 * Demonstrate your knowledge of the model by presenting how it works and why you have designed it in this way. 
 * Use evaluation metrics to ground your claims and test your model. 
