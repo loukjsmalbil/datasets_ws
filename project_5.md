@@ -4,6 +4,22 @@
 
 # Welcome to the Machine Learning Project!
 
+## The Main Goals 
+
+The overarching goal of this project is twofold:
+
+1. Learn to learn new tools and methodologies. In other words, as a data analytst you need to be able to keep up with developments in the field and teach yourself new tools. This is, therefore, an important part of the project. 
+
+2. Focus on learning a skill that is transferable to the final project. Ideally, in the final project you come up with a qood question or idea for a project or product. This will take time. Moreover, implementing your ideas will also take a lot of time. For this reason, it is helpful if you already now a bit about predictive modelling, NLP or computer vision. It will save you a lot of research time. 
+
+Also keep in mind that:
+
+1. This will be an individual project.
+
+2. We will mentor you (Paolo: predictive analyses; Louk: the others). 
+
+## Four Key Areas  
+
 In this project you will focuss on a machine learning analysis in one of the following 4 areas:
 
 ### Classical Predictive Analysis
@@ -18,19 +34,7 @@ In this project you will focuss on a machine learning analysis in one of the fol
 ### Reinforcement and generative learning;
 * For instance, teach a computer to generate new images of people.  
 
-The overarching goal of this project is twofold:
-
-1. Learn to learn new tools and methodologies. In other words, as a data analytst you need to be able to keep up with developments in the field and teach yourself new tools. This is, therefore, an important part of the project. 
-
-2. Focus on learning a skill that is transferable to the final project. Ideally, in the final project you come up with a qood question or idea for a project or product. This will take time. Moreover, implementing your ideas will also take a lot of time. For this reason, it is helpful if you already now a bit about predictive modelling, NLP or computer vision. It will save you a lot of research time. 
-
-
-Also keep in mind that:
-
-1. This will be an individual project.
-
-2. We will mentor you (Paolo: predictive analyses; Louk: the others). 
-
+Each student should select one area to focus on. 
 
 ## Project Description
 
