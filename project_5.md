@@ -28,10 +28,10 @@ In this project you will focuss on a machine learning analysis in one of the fol
 ### Natural Language Processing
 * For instance, doing sentiment analysis on bol.com reviews;
 * For instance, build a chatbot. 
-### Vision and/or object detection;
+### Vision and/or object detection
 * For instance, facial recognition 
 * For instance, recognising the creator of a work of art.
-### Reinforcement and generative learning;
+### Reinforcement and generative learning
 * For instance, teach a computer to generate new images of people.  
 
 Each student should select one area to focus on. 
@@ -42,7 +42,7 @@ Because the project is outlined along 4 themes, each theme has slightly differen
 
 ## Project Goals and Requirements 
 
-### Classical Predictive Analysi
+### Classical Predictive Analysis
 * Come up with a clear research question and testable hypotheses.
 * Apply the programming and ML techniques we have learned as well as some new techniques. 
 * Build and compare at least 4 ML models, one of which must be a model we have not discussed before (e.g. ridge regression).
