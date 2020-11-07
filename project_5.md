@@ -17,11 +17,11 @@ In this project you will focuss on a machine learning analysis in one of the fol
 ### Reinforcement and generative learning;
 * For instance, teach a computer to generate new images of people.  
 
-**Important** 
+**Important**
 
-Ideally the projects should focus on learning a skill that is transferable to the final project.
+1. Ideally the projects should focus on learning a skill that is transferable to the final project.
 
-It will be an individual project. 
+2. It will be an individual project. 
 
 
 ## Project Description
