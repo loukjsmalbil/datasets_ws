@@ -3,6 +3,7 @@
 
 
 # Welcome to the Machine Learning Project!
+
 In this project you will focuss on a machine learning analysis in one of the following 4 areas:
 
 ### Classical Predictive Analysis
@@ -17,11 +18,18 @@ In this project you will focuss on a machine learning analysis in one of the fol
 ### Reinforcement and generative learning;
 * For instance, teach a computer to generate new images of people.  
 
-**Important**
+The overarching goal of this project is twofold:
 
-1. Ideally the projects should focus on learning a skill that is transferable to the final project.
+1. Learn to learn new tools and methodologies. In other words, as a data analytst you need to be able to keep up with developments in the field and teach yourself new tools. This is, therefore, an important part of the project. 
 
-2. It will be an individual project. 
+2. Focus on learning a skill that is transferable to the final project. Ideally, in the final project you come up with a qood question or idea for a project or product. This will take time. Moreover, implementing your ideas will also take a lot of time. For this reason, it is helpful if you already now a bit about predictive modelling, NLP or computer vision. It will save you a lot of research time. 
+
+
+Also keep in mind that:
+
+1. This will be an individual project.
+
+2. We will mentor you (Paolo: predictive analyses; Louk: the others). 
 
 
 ## Project Description
@@ -67,7 +75,7 @@ Because the project is outlined along 4 themes, each theme has slightly differen
 
 **<span style="color:red">The following deliverables should be pushed to your branch:</span>**
 
-**Jupyter notebook(s)** and **Python file(s)** containing your predictive analysis and the code you used to obtain this analysis. Place the Jupyter notebook in the `your-code` folder.The notebook should be a **self sufficient document**. Someone with no exposure to the problem should be able to read the notebook, understand your analysis, where to find the data and how to store the data locally so that the notebooks runs smoothly.<br>
+**Jupyter notebook(s)** and/or **Python file(s)** containing your predictive analysis and the code you used to obtain this analysis. Place the Jupyter notebook in the `your-code` folder.The notebook should be a **self sufficient document**. Someone with no exposure to the problem should be able to read the notebook, understand your analysis, where to find the data and how to store the data locally so that the notebooks runs smoothly.<br>
 
 **<span style="color:red">The following deliverables should NOT be pushed to your branch:</span>** <br>
 - **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. 
